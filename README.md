@@ -6,7 +6,7 @@ Tech Stack:
 
 Backend: Django with Django REST Framework (DRF)
 Database: SQLite, supported by Django
-Authentication: Token-based authentication (using DRF's TokenAuthentication) 
+Authentication: Token-based authentication (using DRF's TokenAuthentication)
 Optional: Custom User Model for extended user authentication functionalities
 
 Workflow Overview:
